@@ -23,14 +23,22 @@ Superstore Retail Dataset
 - Aggregate Functions
 - Business Analytics
 - Data Analysis
+- Data Visualization
+- Business Intelligence 
 
 ## Project Screenshots
-Total_sales_profit.png
-profit_by_category.png
-sales_by_region.png
-Top_product_by_sales.png
-Top_product_by_profit.png
-Discount_Impact.png
+
+### Total Sales & Profit
+![Total Sales & Profit](Total_sales_profit.png)
+
+### Sales by Region
+![Sales by Region](sales_by_region.png)
+
+### Profit by Category
+![Profit by Category](profit_by_category.png)
+
+### Top Product by Sales
+![Top Product by Sales](Top_product_by_sales.png)
 
 
 ## SQL Queries
