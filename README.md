@@ -51,4 +51,5 @@ Superstore Retail Dataset
 
 
 ## SQL Queries
-See 'sql_queries.sql'
+
+[View SQL Queries](./sql_queries.sql)
