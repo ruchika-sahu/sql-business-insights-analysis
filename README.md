@@ -19,12 +19,21 @@ Superstore Retail Dataset
 ## Skills Demonstrated
 - SQL
 - SQLite
+- Data Cleaning
+- Aggregations (SUM, COUNT, AVG)
 - GROUP BY
-- Aggregate Functions
+- ORDER BY
 - Business Analytics
-- Data Analysis
-- Data Visualization
-- Business Intelligence 
+- Exploratory Data Analysis (EDA)
+
+## Business Questions Answered
+
+1. What are the total sales and profit?
+2. Which region generates the highest sales?
+3. Which category is most profitable?
+4. Which products generate the highest sales?
+5. Which products generate the highest profit?
+6. How do discounts affect profitability? 
 
 ## Project Screenshots
 
